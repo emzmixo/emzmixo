@@ -1,67 +1,74 @@
-<div align="center">
+<br clear="both">
 
-  <!-- Hi Mixo Here! -->
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=42&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&height=100&lines=Hi+Mixo+Here!" alt="Typing SVG" />
+<h1 align="center">HI, Mixo Here!</h1>
 
-  <br>
-  <br>
+###
 
-  <!-- GAMBAR 16:9 (Statis) -->
-  <img src="https://i.pinimg.com/1200x/9d/cf/41/9dcf412996addcc40964475886c02bd7.jpg" width="800" style="max-width:100%; border-radius: 15px;" alt="Banner">
+<p align="center">Hello, I'm Mixo, let's be friends</p>
 
-  <br>
-  <br>
+###
 
-  <!-- DISCORD -->
-  <a href="https://discord.com/users/M1XO">
-    <img src="https://img.shields.io/badge/Discord-@M1XO-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emzmixo/emzmixo/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emzmixo/emzmixo/pacman-output/galaga-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/emzmixo/emzmixo/pacman-output/galaga-contribution-graph.svg">
+</picture>
+
+###
+
+<img align="left" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDVtMHUzbG1qa24wZzdmb2VjODRreXVuazU2dm9mbnB4cXZhcml2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YRThiAEEYVNtC5acLO/giphy.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <a href="https://open.spotify.com/user/31zhqcyd36ofch544zhu4hp4lr3q">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zhqcyd36ofch544zhu4hp4lr3q&count=1&unique=true" alt="Spotify recently played"  />
   </a>
-
-  <br>
-  <br>
-
-  <!-- JUMLAH PENGUNJUNG -->
-  <img src="https://komarev.com/ghpvc/?username=M1XO&label=Profile%20Views&color=1E90FF&style=for-the-badge" alt="Profile Views" />
-
-  <br>
-  <br>
-
-  <!-- PROFILE KU -->
-  <!-- PROFILE KU - MINIMAL CARD -->
-<div align="center">
-  <div style="border: 1px solid #DDDDDD; border-radius: 15px; padding: 20px 30px; width: 480px; background: #FFFFFF; box-shadow: 0 2px 10px rgba(0,0,0,0.05);">
-    
-    <h3 align="center" style="color: #333333;">👋 I'm <span style="color: #1E90FF;">M1XO</span></h3>
-    
-    <p align="center" style="color: #555555;">
-      A Beginner Gamer & Coder from Indonesia
-    </p>
-    
-    <p align="center" style="color: #FF8C00;">
-      🎮 PUBG &nbsp;&nbsp;🎮 VALORANT &nbsp;&nbsp;🎮 MLBB
-    </p>
-    
-    <p align="center" style="color: #555555;">
-      📚 Learning to Code • From Zero to Hero
-    </p>
-    
-    <br>
-    
-    <p align="center" style="color: #999999;">
-      <i>"Every master was once a beginner"</i>
-    </p>
-    
-  </div>
 </div>
 
-  <!-- GITHUB STATS -->
-  <img src="https://github-readme-stats.vercel.app/api?username=M1XO&show_icons=true&theme=default&title_color=1E90FF&icon_color=1E90FF" width="45%" />
+###
 
+<br clear="both">
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=emzmixo.emzmixo&"  />
 </div>
 
-<br>
-
-<!-- FOOTER -->
-<div align="center">
-  <sub>Made with ❤️ by M1XO</sub>
-</div>
+###
