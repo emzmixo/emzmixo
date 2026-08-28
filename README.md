@@ -77,11 +77,11 @@ Just like Luffy chasing the **One Piece**, I'm chasing my own goals one project 
 
 <p align="center">
 
-<img src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="400">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd4ZXFyeTRjaXM2cnM3MWV2aGZ4dmk4bjVsM2pncDY5YzVnOTl1aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Rz24pRStq8KaEwz9c6/giphy.gif" width="400">
 
 </p>
 
-> **"I'm gonna be King of the Pirates!"** 🏴‍☠️
+> **"Every day, I become a little better than I was before."** 🏴‍☠️
 
 ---
 
@@ -89,7 +89,7 @@ Just like Luffy chasing the **One Piece**, I'm chasing my own goals one project 
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/emzmixo">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -102,5 +102,5 @@ Just like Luffy chasing the **One Piece**, I'm chasing my own goals one project 
 </p>
 
 <p align="center">
-  <b>🏴‍☠️ Keep sailing. Keep creating. Keep coding.</b>
+  <b> Keep sailing. Keep creating. Keep coding.</b>
 </p>
