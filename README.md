@@ -1,4 +1,4 @@
-# 🏴‍☠️ Mixo's GitHub
+# 🏴‍☠️ Mixo's Profile
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2V1bW1qN2R3bG9nY3N6eWJ5d2N6d3V5eW5qY2R4eG9qY2R4eG9qY2R4eG9qY2R4eG9qY2R4/13UjGqg8m8hQpG/giphy.gif" width="500">
@@ -20,7 +20,7 @@
 
 Hey! I'm **Mixo**, a creative developer who loves building things on the web and exploring new technology.
 
-Just like Luffy chasing the **One Piece**, I'm chasing my own goals — one project at a time. ☠️
+Just like Luffy chasing the **One Piece**, I'm chasing my own goals one project at a time. ☠️
 
 * 💻 Web Design
 * 🎨 UI/UX
@@ -39,19 +39,18 @@ Just like Luffy chasing the **One Piece**, I'm chasing my own goals — one proj
 
 </p>
 
----
+-
 
 ## ⚡ Currently Building
 
 ```text
-🌐 Websites
+🌐 Websites Designer
 🎨 Creative UI
 🚀 Personal Projects
 💡 New Ideas
 🔥 New Experiences
 ```
 
----
 
 ## 📊 GitHub Stats
 
@@ -63,7 +62,6 @@ Just like Luffy chasing the **One Piece**, I'm chasing my own goals — one proj
 
 </p>
 
----
 
 ## 🔥 GitHub Streak
 
