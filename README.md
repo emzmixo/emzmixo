@@ -1,86 +1,80 @@
-# 🏴‍☠️ Mixo's Profile
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2V1bW1qN2R3bG9nY3N6eWJ5d2N6d3V5eW5qY2R4eG9qY2R4eG9qY2R4eG9qY2R4eG9qY2R4/13UjGqg8m8hQpG/giphy.gif" width="500">
-</p>
+  <!-- Banner Top Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=220&section=header&text=🏴‍☠️%20MIXO'S%20DOMAIN%20🏴‍☠️&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-<h2 align="center">👒 I'm Mixo!</h2>
+  <!-- Avatar / Anime GIF -->
+  <p align="center">
+    <img src="https://media.giphy.com/media/13UjGqg8m8hQpG/giphy.gif" width="380" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);">
+  </p>
 
-<p align="center">
-  💻 Web Designer &nbsp; • &nbsp; 🎨 Creative Developer &nbsp; • &nbsp; 🚀 Content Creator
-</p>
+  <h1>👒 Ahoy, I'm <span color="#38bdf8">Mixo</span>!</h1>
 
-<p align="center">
-  <i>"Create your own."</i>
-</p>
+  <p align="center">
+    <b>🎨 Creative Developer &nbsp;•&nbsp; 💻 UI/UX Designer &nbsp;•&nbsp; 🚀 Content Creator</b>
+  </p>
 
----
+  <p align="center">
+    <i>"If you don't take risks, you can't create a future." — Monkey D. Luffy</i>
+  </p>
 
-## 🌊 About Me
+  <!-- Typing Effect / Badges Status -->
+  <p align="center">
+    <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+stunning+web+experiences...;Designing+next-gen+UI%2FUX...;Sailing+the+digital+grand+line...;Creating+cool+tech+content..." alt="Typing SVG" /></a>
+  </p>
 
-Hey! I'm **Mixo**, a creative developer who loves building things on the web and exploring new technology.
+</div>
 
-Just like Luffy chasing the **One Piece**, I'm chasing my own goals one project at a time. ☠️
-
-* 💻 Web Design
-* 🎨 UI/UX
-* 🌐 Web Development
-* 🎬 Content Creation
-* 🎮 Gaming & Technology
-* 🚀 Always learning something new
+<br/>
 
 ---
 
-## 🏴‍☠️ My Tech Crew
+## 🌊 ⚓ About The Captain
 
-<p align="center">
+<table border="0">
+  <tr>
+    <td width="60%">
+      <p>Hey there, traveller! I'm <b>Mixo</b>, a passionate digital craftsman who bridges the gap between code and design.</p>
+      <p>Just like Luffy navigating the treacherous waters of the <b>Grand Line</b> in search of the <i>One Piece</i>, I am on a relentless journey to master web creation, push creative boundaries, and craft unforgettable user experiences.</p>
+      <ul>
+        <li>🎨 <b>Specialty:</b> High-impact Web Design & Intuitive UI/UX</li>
+        <li>💻 <b>Core Focus:</b> Modern Frontend Engineering</li>
+        <li>🎬 <b>Side Quest:</b> Content Creation & Tech Exploration</li>
+        <li>⚡ <b>Current Objective:</b> Building sleek web applications & learning new tech stacks</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=emzmixo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma" />
+---
 
-</p>
+## 🏴‍☠️ My Tech Crew (Arsenal & Tools)
 
--
+<div align="center">
 
-## ⚡ Currently Building
+  ### 🛠️ Languages & Frontend
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,sass" />
+  </p>
+
+  ### 🎨 Design & Tools
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae,vscode,git,github" />
+  </p>
+
+</div>
+
+---
+
+## ⚡ Currently On Board
 
 ```text
-🌐 Websites Designer
-🎨 Creative UI
-🚀 Personal Projects
-💡 New Ideas
-🔥 New Experiences
-```
-
----
-
-## 👒 The Journey
-
-<p align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd4ZXFyeTRjaXM2cnM3MWV2aGZ4dmk4bjVsM2pncDY5YzVnOTl1aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Rz24pRStq8KaEwz9c6/giphy.gif" width="400">
-
-</p>
-
-> **"Every day, I become a little better than I was before."** 🏴‍☠️
-
----
-
-## 🌐 Find Me
-
-<p align="center">
-
-<a href="https://github.com/emzmixo">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:38bdf8&height=120&section=footer"/>
-</p>
-
-<p align="center">
-  <b> Keep sailing. Keep creating. Keep coding.</b>
-</p>
+┌─────────────────────────────────────────────────────────┐
+│ 🌐 WEB DESIGN    ► Crafting immersive user interfaces  │
+│ 🎨 CREATIVE UI   ► Turning complex ideas into visuals   │
+│ 🚀 PROJECTS      ► Building impactful web apps          │
+│ 💡 INNOVATION    ► Experimenting with new web tech      │
+└─────────────────────────────────────────────────────────┘
