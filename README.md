@@ -1,15 +1,12 @@
 <div align="center">
 
-  <!-- Minimalist Title -->
   <h1>🏴‍☠️ MIXO</h1>
   <p><b>Creative Developer &nbsp;•&nbsp; UI/UX Designer &nbsp;•&nbsp; Content Creator</b></p>
 
-  <!-- Typing Effect -->
   <p align="center">
     <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=450&lines=Building+stunning+web+experiences...;Designing+next-gen+UI%2FUX...;Sailing+the+digital+grand+line..." alt="Typing SVG" /></a>
   </p>
 
-  <!-- Compact Avatar -->
   <p align="center">
     <img src="https://media.giphy.com/media/13UjGqg8m8hQpG/giphy.gif" width="280" style="border-radius: 12px;">
   </p>
@@ -24,7 +21,6 @@
 
 <div align="center">
 
-  <!-- Status Badges Bar -->
   <p>
     <img src="https://img.shields.io/badge/Level-Max_Explorer-blue?style=for-the-badge&logo=roblox&logoColor=white" />
     <img src="https://img.shields.io/badge/Class-Creative_Developer-0f172a?style=for-the-badge&logo=codefactor&logoColor=38bdf8" />
@@ -35,10 +31,8 @@
 
 <br/>
 
-<!-- Main About Layout Table -->
 <table border="0" width="100%">
   <tr>
-    <!-- Left Column: Story & Vibe -->
     <td width="55%" valign="top">
       <h3>👒 <i>"Sailing the Digital Grand Line..."</i></h3>
       <p>
@@ -61,64 +55,12 @@
 
     </td>
 
-    <!-- Right Column: Stats & Dynamic Cards -->
     <td width="45%" align="center" valign="top">
       
-      <!-- GitHub Card -->
       <img src="https://github-readme-stats.vercel.app/api?username=emzmixo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8" width="100%" />
       
       <br/><br/>
 
-      <!-- Quote Box / Bounty Card -->
       <blockquote align="left">
         <b>☠️ Captain's Creed:</b><br/>
-        <i>"Power isn't determined by your size, but the size of your heart and dreams."</i>
-        <br/><br/>
-        <b>— Monkey D. Luffy</b>
-      </blockquote>
-
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- Interactive Activity Bar -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=40&text=⚡%20ALWAYS%20LEARNING%20•%20ALWAYS%20BUILDING%20•%20ALWAYS%20CREATING%20⚡&fontSize=14&fontColor=38bdf8" width="100%"/>
-</div>
-
-<br/>
-
-<!-- Interactive Quote Box -->
-> 💡 *"Power isn't determined by your size, but the size of your heart and dreams."*  
-> — **Monkey D. Luffy**
----
-
-## 🏴‍☠️ Tech Stack
-
-<div align="center">
-
-  ### 🛠️ Languages & Frontend
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,sass" />
-  </p>
-
-  ### 🎨 Design & Tools
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae,vscode,git,github" />
-  </p>
-
-</div>
-
----
-
-## ⚡ Currently On Board
-
-```text
-┌─────────────────────────────────────────────────────────┐
-│ 🌐 WEB DESIGN    ► Crafting immersive user interfaces  │
-│ 🎨 CREATIVE UI   ► Turning complex ideas into visuals   │
-│ 🚀 PROJECTS      ► Building impactful web apps          │
-│ 💡 INNOVATION    ► Experimenting with new web tech      │
-└─────────────────────────────────────────────────────────┘
+        <i>"Power isn't determined by your size, but the size of your heart and
