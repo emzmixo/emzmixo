@@ -20,26 +20,50 @@
 
 ---
 
-## 🌊 ⚓ About Me
+## 🌊 ⚓ About The Captain
 
-<table border="0">
+<div align="center">
+
+| 🏴‍☠️ **Pirate Profile** | 🎯 **Current Mission** |
+| :--- | :--- |
+| **Name:** Mixo (Mixo’s Domain) | **Focus:** Modern Web Apps & UI Aesthetics |
+| **Role:** Creative Developer & Designer | **Tech Stack:** HTML/CSS, JS, Node.js, Python |
+| **Vibe:** Dark Minimalist & One Piece Enthusiast | **Current Quest:** Crafting immersive web experiences |
+
+</div>
+
+<br/>
+
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="60%">
-      <p>Hey there! I'm <b>Mixo</b>, a passionate digital craftsman who bridges the gap between code and design.</p>
-      <p>Just like Luffy navigating the <b>Grand Line</b> in search of the <i>One Piece</i>, I'm on a journey to master web creation and craft memorable user experiences.</p>
+    <td width="58%" valign="top">
+      <h3>👒 Sailing The Digital Grand Line</h3>
+      <p>
+        Halo! Saya <b>Mixo</b>, seorang <i>creative developer</i> yang berfokus pada penggabungan dunia <b>design aesthetic</b> dan <b>functional code</b>.
+      </p>
+      <p>
+        Bagi saya, coding bagaikan mengarungi <i>Grand Line</i>—setiap proyek adalah pulau baru yang membawa tantangan, inovasi, dan eksperimen baru yang seru untuk dipecahkan.
+      </p>
+      <br/>
+      <h4>⚡ Quick Stats & Traits:</h4>
       <ul>
-        <li>🎨 <b>Specialty:</b> High-impact Web Design & Intuitive UI/UX</li>
-        <li>💻 <b>Core Focus:</b> Modern Frontend Engineering</li>
-        <li>🎬 <b>Side Quest:</b> Content Creation & Tech Exploration</li>
-        <li>⚡ <b>Current Objective:</b> Building sleek web apps & mastering new tech</li>
+        <li>🎨 <b>Design Mindset:</b> Suka antarmuka gelap (<i>dark mode</i>), animasi responsif, & estetika minimalis.</li>
+        <li>🛠️ <b>Automation & Scripts:</b> Berpengalaman dalam membuat kustom makro, bot, hingga integrasi API.</li>
+        <li>🚀 <b>Continuous Growth:</b> Menerapkan prinsip <i>"Selalu berkembang sedikit demi sedikit setiap harinya."</i></li>
       </ul>
     </td>
-    <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=emzmixo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" />
+    <td width="42%" align="center" valign="middle">
+      <!-- Card Stats GitHub Bertema Tokyonight / Dark -->
+      <img src="https://github-readme-stats.vercel.app/api?username=emzmixo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8" width="100%" />
     </td>
   </tr>
 </table>
 
+<br/>
+
+<!-- Interactive Quote Box -->
+> 💡 *"Power isn't determined by your size, but the size of your heart and dreams."*  
+> — **Monkey D. Luffy**
 ---
 
 ## 🏴‍☠️ Tech Stack
