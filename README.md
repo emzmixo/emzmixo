@@ -63,4 +63,47 @@
 
       <blockquote align="left">
         <b>☠️ Captain's Creed:</b><br/>
-        <i>"Power isn't determined by your size, but the size of your heart and
+        <i>"Power isn't determined by your size, but the size of your heart and dreams."</i>
+        <br/><br/>
+        <b>— Monkey D. Luffy</b>
+      </blockquote>
+
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=40&text=⚡%20ALWAYS%20LEARNING%20•%20ALWAYS%20BUILDING%20•%20ALWAYS%20CREATING%20⚡&fontSize=14&fontColor=38bdf8" width="100%"/>
+</div>
+
+---
+
+## 🏴‍☠️ Tech Stack
+
+<div align="center">
+
+  ### 🛠️ Languages & Frontend
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,sass" />
+  </p>
+
+  ### 🎨 Design & Tools
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae,vscode,git,github" />
+  </p>
+
+</div>
+
+---
+
+## ⚡ Currently On Board
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│ 🌐 WEB DESIGN    ► Crafting immersive user interfaces  │
+│ 🎨 CREATIVE UI   ► Turning complex ideas into visuals   │
+│ 🚀 PROJECTS      ► Building impactful web apps          │
+│ 💡 INNOVATION    ► Experimenting with new web tech      │
+└─────────────────────────────────────────────────────────┘
