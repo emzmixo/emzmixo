@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>🏴‍☠️ MIXO</h1>
+  <h1>🏴‍☠️ <span style="font-size: 1.4em;">MIXO</span> 🏴‍☠️</h1>
   <p><b>Creative Developer &nbsp;•&nbsp; UI/UX Designer &nbsp;•&nbsp; Content Creator</b></p>
 
   <p align="center">
