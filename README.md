@@ -5,7 +5,7 @@
 > *Exploring ideas. Building experiences. Creating something different.*
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Creative+Developer;UI%2FUX+Enthusiast;Building+for+the+Web;Sailing+the+Digital+Grand+Line" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Creative+Developer;UI%2FUX+Enthusiast;Video+Editor+%26+Content+Creator;Sailing+the+Digital+Grand+Line" alt="Typing SVG" />
 </p>
 
 ---
@@ -16,6 +16,7 @@ Hi, I'm **Mixo** — a creative developer who enjoys combining clean code with m
 
 - 🎨 Creating clean and intuitive interfaces
 - 💻 Building modern web experiences
+- 🎬 Editing videos and creating digital content
 - 🤖 Exploring automation and creative tools
 - 🚀 Always learning, experimenting, and building
 
@@ -23,6 +24,12 @@ Hi, I'm **Mixo** — a creative developer who enjoys combining clean code with m
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,git,github,vscode&theme=dark" />
+</p>
+
+### 🎬 Editing & Creative Apps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,premiere,aftereffects,capcut&theme=dark" />
 </p>
 
 ### 📊 GitHub Stats
