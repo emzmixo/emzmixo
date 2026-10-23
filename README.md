@@ -24,40 +24,69 @@
 
 <div align="center">
 
-| 🏴‍☠️ **Pirate Profile** | 🎯 **Current Mission** |
-| :--- | :--- |
-| **Name:** Mixo (Mixo’s Domain) | **Focus:** Modern Web Apps & UI Aesthetics |
-| **Role:** Creative Developer & Designer | **Tech Stack:** HTML/CSS, JS, Node.js, Python |
-| **Vibe:** Dark Minimalist & One Piece Enthusiast | **Current Quest:** Crafting immersive web experiences |
+  <!-- Status Badges Bar -->
+  <p>
+    <img src="https://img.shields.io/badge/Level-Max_Explorer-blue?style=for-the-badge&logo=roblox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Class-Creative_Developer-0f172a?style=for-the-badge&logo=codefactor&logoColor=38bdf8" />
+    <img src="https://img.shields.io/badge/Bounty-1,500,000,000-dc2626?style=for-the-badge&logo=onepiece&logoColor=white" />
+  </p>
 
 </div>
 
 <br/>
 
-<table border="0" cellspacing="0" cellpadding="0">
+<!-- Main About Layout Table -->
+<table border="0" width="100%">
   <tr>
-    <td width="58%" valign="top">
-      <h3>👒 Sailing The Digital Grand Line</h3>
+    <!-- Left Column: Story & Vibe -->
+    <td width="55%" valign="top">
+      <h3>👒 <i>"Sailing the Digital Grand Line..."</i></h3>
       <p>
-        Halo! Saya <b>Mixo</b>, seorang <i>creative developer</i> yang berfokus pada penggabungan dunia <b>design aesthetic</b> dan <b>functional code</b>.
+        Ahoy! Saya <b>Mixo</b>, seorang <i>Digital Craftsman</i> & <i>Creative Developer</i> yang senang mengeksplorasi batas antara <b>Visual Design</b> dan <b>Clean Code</b>.
       </p>
       <p>
-        Bagi saya, coding bagaikan mengarungi <i>Grand Line</i>—setiap proyek adalah pulau baru yang membawa tantangan, inovasi, dan eksperimen baru yang seru untuk dipecahkan.
+        Sama seperti Luffy yang menjelajahi lautan luas, saya mengarungi dunia teknologi untuk membangun <b>pengalaman web yang estetik, interaktif, dan penuh inovasi</b>.
       </p>
+      
       <br/>
-      <h4>⚡ Quick Stats & Traits:</h4>
-      <ul>
-        <li>🎨 <b>Design Mindset:</b> Suka antarmuka gelap (<i>dark mode</i>), animasi responsif, & estetika minimalis.</li>
-        <li>🛠️ <b>Automation & Scripts:</b> Berpengalaman dalam membuat kustom makro, bot, hingga integrasi API.</li>
-        <li>🚀 <b>Continuous Growth:</b> Menerapkan prinsip <i>"Selalu berkembang sedikit demi sedikit setiap harinya."</i></li>
-      </ul>
+
+      <h4>⚡ Captain's Log & Specialties</h4>
+      
+      | Skill / Passion | Expertise & Focus |
+      | :--- | :--- |
+      | 🎨 <b>UI/UX & Web Aesthetics</b> | Dark mode visuals, clean layouts & smooth web animations |
+      | 💻 <b>Frontend Development</b> | Interactive web applications & modern components |
+      | 🤖 <b>Automation & Tools</b> | Custom scripts, bots, API integrations & HUD interfaces |
+      | 🎬 <b>Content & Creativity</b> | Digital visual graphics & creative media production |
+
     </td>
-    <td width="42%" align="center" valign="middle">
-      <!-- Card Stats GitHub Bertema Tokyonight / Dark -->
-      <img src="https://github-readme-stats.vercel.app/api?username=emzmixo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8" width="100%" />
+
+    <!-- Right Column: Stats & Dynamic Cards -->
+    <td width="45%" align="center" valign="top">
+      
+      <!-- GitHub Card -->
+      <img src="https://github-readme-stats.vercel.app/api?username=emzmixo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8" width="100%" />
+      
+      <br/><br/>
+
+      <!-- Quote Box / Bounty Card -->
+      <blockquote align="left">
+        <b>☠️ Captain's Creed:</b><br/>
+        <i>"Power isn't determined by your size, but the size of your heart and dreams."</i>
+        <br/><br/>
+        <b>— Monkey D. Luffy</b>
+      </blockquote>
+
     </td>
   </tr>
 </table>
+
+<br/>
+
+<!-- Interactive Activity Bar -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=40&text=⚡%20ALWAYS%20LEARNING%20•%20ALWAYS%20BUILDING%20•%20ALWAYS%20CREATING%20⚡&fontSize=14&fontColor=38bdf8" width="100%"/>
+</div>
 
 <br/>
 
