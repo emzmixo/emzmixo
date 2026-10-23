@@ -42,8 +42,8 @@ Hi, I'm **Mixo** a creative developer who enjoys combining clean code with moder
 ---
 
 <p align="center">
-  <i>"If you don't take risks, you can't create a future."</i><br/>
-  — Monkey D. Luffy 🏴‍☠️
+  <i>"Create Your Own."</i><br/>
+  — Mixo
 </p>
 
 <p align="center">
