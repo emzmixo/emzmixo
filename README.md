@@ -1,4 +1,4 @@
-# 🏴‍☠️ Mixo
+# MIXO
 
 **Creative Developer · UI/UX Designer · Content Creator**
 
@@ -12,7 +12,7 @@
 
 ### ⚡ About Me
 
-Hi, I'm **Mixo** — a creative developer who enjoys combining clean code with modern design.
+Hi, I'm **Mixo** a creative developer who enjoys combining clean code with modern design.
 
 - 🎨 Creating clean and intuitive interfaces
 - 💻 Building modern web experiences
