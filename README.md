@@ -1,46 +1,37 @@
 <div align="center">
 
-  <!-- Banner Top Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=220&section=header&text=🏴‍☠️%20MIXO'S%20DOMAIN%20🏴‍☠️&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <!-- Minimalist Title -->
+  <h1>🏴‍☠️ MIXO</h1>
+  <p><b>Creative Developer &nbsp;•&nbsp; UI/UX Designer &nbsp;•&nbsp; Content Creator</b></p>
 
-  <!-- Avatar / Anime GIF -->
+  <!-- Typing Effect -->
   <p align="center">
-    <img src="https://media.giphy.com/media/13UjGqg8m8hQpG/giphy.gif" width="380" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);">
+    <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=450&lines=Building+stunning+web+experiences...;Designing+next-gen+UI%2FUX...;Sailing+the+digital+grand+line..." alt="Typing SVG" /></a>
   </p>
 
-  <h1>👒 Ahoy, I'm <span color="#38bdf8">Mixo</span>!</h1>
-
+  <!-- Compact Avatar -->
   <p align="center">
-    <b>🎨 Creative Developer &nbsp;•&nbsp; 💻 UI/UX Designer &nbsp;•&nbsp; 🚀 Content Creator</b>
+    <img src="https://media.giphy.com/media/13UjGqg8m8hQpG/giphy.gif" width="280" style="border-radius: 12px;">
   </p>
 
-  <p align="center">
-    <i>"If you don't take risks, you can't create a future." — Monkey D. Luffy</i>
-  </p>
-
-  <!-- Typing Effect / Badges Status -->
-  <p align="center">
-    <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+stunning+web+experiences...;Designing+next-gen+UI%2FUX...;Sailing+the+digital+grand+line...;Creating+cool+tech+content..." alt="Typing SVG" /></a>
-  </p>
+  <p><i>"If you don't take risks, you can't create a future." — Monkey D. Luffy</i></p>
 
 </div>
 
-<br/>
-
 ---
 
-## 🌊 ⚓ About The Captain
+## 🌊 ⚓ About Me
 
 <table border="0">
   <tr>
     <td width="60%">
-      <p>Hey there, traveller! I'm <b>Mixo</b>, a passionate digital craftsman who bridges the gap between code and design.</p>
-      <p>Just like Luffy navigating the treacherous waters of the <b>Grand Line</b> in search of the <i>One Piece</i>, I am on a relentless journey to master web creation, push creative boundaries, and craft unforgettable user experiences.</p>
+      <p>Hey there! I'm <b>Mixo</b>, a passionate digital craftsman who bridges the gap between code and design.</p>
+      <p>Just like Luffy navigating the <b>Grand Line</b> in search of the <i>One Piece</i>, I'm on a journey to master web creation and craft memorable user experiences.</p>
       <ul>
         <li>🎨 <b>Specialty:</b> High-impact Web Design & Intuitive UI/UX</li>
         <li>💻 <b>Core Focus:</b> Modern Frontend Engineering</li>
         <li>🎬 <b>Side Quest:</b> Content Creation & Tech Exploration</li>
-        <li>⚡ <b>Current Objective:</b> Building sleek web applications & learning new tech stacks</li>
+        <li>⚡ <b>Current Objective:</b> Building sleek web apps & mastering new tech</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -51,7 +42,7 @@
 
 ---
 
-## 🏴‍☠️ My Tech Crew (Arsenal & Tools)
+## 🏴‍☠️ Tech Stack
 
 <div align="center">
 
