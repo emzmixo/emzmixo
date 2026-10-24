@@ -1,9 +1,6 @@
-
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=800&size=55&duration=4000&pause=999999&color=DC2626&center=true&vCenter=true&width=300&height=75&lines=MIXO" alt="MIXO" />
-</h1>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=800&size=65&duration=999999&pause=999999&color=DC2626&center=true&vCenter=true&width=400&height=90&lines=MIXO" alt="MIXO" />
+</p>
 
 
 **Creative Developer · UI/UX Designer · Content Creator**
