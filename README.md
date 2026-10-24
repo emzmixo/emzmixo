@@ -1,4 +1,8 @@
-# MIXO
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:EF4444,100:FFFFFF&height=180&section=header&text=MIXO&fontSize=70&fontColor=FFFFFF&fontAlignY=45&desc=Creative%20Developer%20%7C%20UI%2FUX%20Designer&descSize=15&descAlignY=65&descColor=FFFFFF" width="100%" />
+</p>
+
 
 **Creative Developer · UI/UX Designer · Content Creator**
 
