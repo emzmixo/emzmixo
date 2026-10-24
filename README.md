@@ -2,10 +2,10 @@
 
 **Creative Developer · UI/UX Designer · Content Creator**
 
-> *Exploring ideas. Building experiences. Creating something different.*
+> *Creativity is an art. Master it, and you will come to know its meaning.*
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Creative+Developer;UI%2FUX+Enthusiast;Video+Editor+%26+Content+Creator;Sailing+the+Digital+Grand+Line" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Mixo;Creative+Developer;Video+Editor;Web+Builder" alt="Typing SVG" />
 </p>
 
 ---
