@@ -1,19 +1,6 @@
-
 <p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="500" height="110" viewBox="0 0 500 110">
-    <defs>
-      <linearGradient id="redwhite" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#DC2626"/>
-        <stop offset="100%" stop-color="#FFFFFF"/>
-      </linearGradient>
-    </defs>
-    <text x="250" y="78" text-anchor="middle"
-      font-family="Raleway, Arial, sans-serif"
-      font-size="76" font-weight="800"
-      fill="url(#redwhite)">MIXO</text>
-  </svg>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=250&height=60&lines=MIXO" alt="MIXO" />
 </p>
-
 
 
 **Creative Developer · UI/UX Designer · Content Creator**
