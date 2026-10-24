@@ -1,7 +1,9 @@
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:EF4444,100:FFFFFF&height=180&section=header&text=MIXO&fontSize=70&fontColor=FFFFFF&fontAlignY=45&desc=Creative%20Developer%20%7C%20UI%2FUX%20Designer&descSize=15&descAlignY=65&descColor=FFFFFF" width="100%" />
-</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=800&size=55&duration=4000&pause=999999&color=DC2626&center=true&vCenter=true&width=300&height=75&lines=MIXO" alt="MIXO" />
+</h1>
+
 
 
 **Creative Developer · UI/UX Designer · Content Creator**
