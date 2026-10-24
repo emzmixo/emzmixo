@@ -40,6 +40,8 @@ Hi, I'm **Mixo** a creative developer who enjoys combining clean code with moder
   <img src="https://img.icons8.com/color/96/microsoft-powerpoint-2019.png" width="48" alt="Microsoft PowerPoint" />
 </p>
 
+---
+
 ### 📊 GitHub Stats
 
 <p>
