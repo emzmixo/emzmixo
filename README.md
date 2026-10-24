@@ -53,7 +53,7 @@ Hi, I'm **Mixo** a creative developer who enjoys combining clean code with moder
 
 <p align="center">
   <i>"Create Your Own."</i><br/>
-  — Mixo
+  Mixo
 </p>
 
 <p align="center">
