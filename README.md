@@ -28,39 +28,30 @@ Hi, I'm **Mixo** a creative developer who enjoys combining clean code with moder
 
 
 
+
 ### 🎬 Editing & Creative Apps
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/capcut/FFFFFF" height="40" alt="CapCut" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" alt="Premiere Pro" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="40" alt="After Effects" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/davinciresolve/233A51" height="40" alt="DaVinci Resolve" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/filmora/00AEEF" height="40" alt="Filmora" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="Photoshop" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="40" alt="Illustrator" />
+  <img src="https://cdn.simpleicons.org/capcut/FFFFFF" width="36" alt="CapCut" />
+  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" width="36" alt="Premiere Pro" />
+  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" width="36" alt="After Effects" />
+  <img src="https://cdn.simpleicons.org/davinciresolve/FFFFFF" width="36" alt="DaVinci Resolve" />
+  <img src="https://cdn.simpleicons.org/wondersharefilmora/00AEEF" width="36" alt="Filmora" />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="36" alt="Photoshop" />
+  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" width="36" alt="Illustrator" />
 </p>
 
 ### 🖥️ Microsoft Office
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/microsoftword/2B579A" height="40" alt="Microsoft Word" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40" alt="Microsoft Excel" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftpowerpoint/B7472A" height="40" alt="Microsoft PowerPoint" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" height="40" alt="Microsoft Outlook" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftonenote/7719AA" height="40" alt="Microsoft OneNote" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftaccess/A4373A" height="40" alt="Microsoft Access" />
+  <img src="https://cdn.simpleicons.org/microsoftword/2B579A" width="36" alt="Word" />
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="36" alt="Excel" />
+  <img src="https://cdn.simpleicons.org/microsoftpowerpoint/B7472A" width="36" alt="PowerPoint" />
+  <img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" width="36" alt="Outlook" />
+  <img src="https://cdn.simpleicons.org/microsoftonenote/7719AA" width="36" alt="OneNote" />
+  <img src="https://cdn.simpleicons.org/microsoftaccess/A4373A" width="36" alt="Access" />
 </p>
+
 
 
 
