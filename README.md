@@ -27,28 +27,41 @@ Hi, I'm **Mixo** a creative developer who enjoys combining clean code with moder
 </p>
 
 
+
 ### 🎬 Editing & Creative Apps
 
-<p>
-  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
-  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
-  <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" />
-  <img src="https://img.shields.io/badge/Filmora-00AEEF?style=for-the-badge&logo=wondershare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+<p align="left">
+  <img src="https://cdn.simpleicons.org/capcut/FFFFFF" height="40" alt="CapCut" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" alt="Premiere Pro" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="40" alt="After Effects" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/davinciresolve/233A51" height="40" alt="DaVinci Resolve" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/filmora/00AEEF" height="40" alt="Filmora" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="Photoshop" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="40" alt="Illustrator" />
 </p>
 
 ### 🖥️ Microsoft Office
 
-<p>
-  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
-  <img src="https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white" />
-  <img src="https://img.shields.io/badge/OneNote-7719AA?style=for-the-badge&logo=microsoftonenote&logoColor=white" />
+<p align="left">
+  <img src="https://cdn.simpleicons.org/microsoftword/2B579A" height="40" alt="Microsoft Word" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40" alt="Microsoft Excel" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftpowerpoint/B7472A" height="40" alt="Microsoft PowerPoint" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" height="40" alt="Microsoft Outlook" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftonenote/7719AA" height="40" alt="Microsoft OneNote" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftaccess/A4373A" height="40" alt="Microsoft Access" />
 </p>
+
 
 
 ### 📊 GitHub Stats
