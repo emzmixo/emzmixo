@@ -32,14 +32,6 @@ Hi, I'm **Mixo** a creative developer who enjoys combining clean code with moder
   <img src="https://skillicons.dev/icons?i=photoshop,illustrator,premiere,aftereffects,capcut&theme=dark" />
 </p>
 
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=emzmixo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emzmixo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" height="160" />
-</p>
-
-
 ### 🖥️ Microsoft Office Skills
 
 <p align="left">
@@ -48,6 +40,12 @@ Hi, I'm **Mixo** a creative developer who enjoys combining clean code with moder
   <img src="https://img.icons8.com/color/96/microsoft-powerpoint-2019.png" width="48" alt="Microsoft PowerPoint" />
 </p>
 
+### 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=emzmixo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emzmixo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" height="160" />
+</p>
 
 ---
 
