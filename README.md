@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&color=FFFFFF&center=true&vCenter=true&width=250&height=60&lines=MIXO" alt="MIXO" />
-</p>
+<h2 align="center">
+  <span style="color: #FFFFFF;">MIXO</span>
+</h2>
 
 
 **Creative Developer · UI/UX Designer · Content Creator**
