@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&color=FFFFFF&center=true&vCenter=true&width=250&height=60&lines=MIXO&repeat=false&startDelay=0" alt="MIXO" />
+  <img src="./header.svg" alt="MIXO" width="300">
 </p>
 
 
